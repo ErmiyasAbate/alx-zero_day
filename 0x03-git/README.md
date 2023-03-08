@@ -1,1 +1,1 @@
-Hello, My name is Ermiyas! ALX Africa!
+Hello, My name is Ermiyas!
